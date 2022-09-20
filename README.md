@@ -3,6 +3,7 @@
 # Задача: определить, как рассылка сообщения пользователям в июле повлияла на их Retention
 
 ### Инструменты:
-Jupyter notebook
-Python - анализ данных (pandas, numpy)
-Python - визуализация (seaborn, matplotlib)
+
+1. Jupyter notebook
+2. Python - анализ данных (pandas, numpy)
+3. Python - визуализация (seaborn, matplotlib)
